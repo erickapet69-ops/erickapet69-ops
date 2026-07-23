@@ -2,11 +2,11 @@
 
 🔧 Technicien Supérieur en Systèmes et Réseaux basé à Douala, Cameroun
 🎨 Designer graphique & Community Manager
-📡 Passionné par les réseaux, la cybersécurité et la transformation numérique en Afrique
+📡 Passionné par les réseaux, la sécurité informatique et la transformation numérique en Afrique
 
 ## 🛠️ Compétences techniques
-- **Systèmes :** Windows Server (AD, DNS, DHCP, GPO) · Linux (Ubuntu, Debian)
-- **Réseaux :** LAN/WAN/VPN/VLAN · TCP/IP · Cisco · Wi-Fi
+- **Systèmes :** Windows Server (AD, DNS, DHCP, GPO)
+- **Réseaux :** LAN/WAN/VPN/VLAN · TCP/IP · Wi-Fi
 - **Sécurité :** Pare-feu · Sauvegardes · PCA/PRA · Gestion des accès
 - **Support :** Helpdesk N1/N2 · Gestion de parc · Ticketing
 - **Bases de données :** MySQL · Oracle
